@@ -1,0 +1,2 @@
+/* This is the jsx component file for the LiveRatePage.jsx component. The component where the
+    current currencies will be implemented.*/

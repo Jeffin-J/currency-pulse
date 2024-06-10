@@ -1,0 +1,2 @@
+/* This is the jsx component file for the HistoricalCurrencyPage component. The component where the
+    historical data of the currency will be implemented.*/
