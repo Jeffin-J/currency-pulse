@@ -1,5 +1,3 @@
-/*Root component of webapp*/
-
 import logo from './logo.svg';
 import './App.css';
 

@@ -1,2 +1,0 @@
-/* This is the jsx component file for the NavBar component. 
-   The component where it will always be shown at the top of the web app.*/

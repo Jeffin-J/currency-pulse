@@ -1,2 +1,0 @@
-/* This is the jsx component file for the ConversionToolPage component. The component where the
-    currency converter will be implemented.*/

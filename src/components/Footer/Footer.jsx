@@ -1,2 +1,0 @@
-/* This is the jsx component file for the Footer component. 
-   The component where it will always be shown at the bottom of the web app.*/
